@@ -31,9 +31,9 @@ Passionate, dynamic, and results-oriented Full-Stack Developer with 5 progressiv
 - Rising Talent of the Year | 2020-2021
 
 ## Certificates & Workshops 🧑‍🎓
-- React - The Complete Guide (incl Hooks, React Router, Redux)
-- CSS in-depth, v2
-- Rethinking Asynchronous JavaScript
-- Full Stack for Front-End Engineers, v2
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
+- [CSS in-depth, v2](https://frontendmasters.com/courses/css-grid-flexbox-v2/)
+- [Rethinking Asynchronous JavaScript](https://frontendmasters.com/courses/rethinking-async-js/)
+- [Full Stack for Front-End Engineers, v3](https://frontendmasters.com/courses/fullstack-v3/)
 
 Let's connect and build amazing things together! 🤗🤗🤗🤗
